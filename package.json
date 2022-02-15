@@ -7,12 +7,23 @@
 	"engines": {
 		"vscode": "^1.64.0"
 	},
+	"icon": "images/darkivy-icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/teakivy/DarkIvy.git"
 	},
 	"categories": [
 		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"vscode",
+		"theme",
+		"darkivy",
+		"teakivy",
+		"purple",
+		"darkpurple",
+		"darker"
 	],
 	"contributes": {
 		"themes": [
