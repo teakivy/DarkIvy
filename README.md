@@ -10,4 +10,4 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## What's new?
 
-[Click here to go to the Changelog](https://marketplace.visualstudio.com/items/TeakIvy.darkivy/changelog)
+[Click here to go to the Changelog](https://github.com/teakivy/DarkIvy/blob/master/CHANGELOG.md)
