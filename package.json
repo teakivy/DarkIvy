@@ -1,0 +1,22 @@
+{
+	"name": "darkivy",
+	"displayName": "DarkIvy",
+	"description": "A Dark VSCode theme created by TeakIvy",
+	"version": "0.0.1",
+	"publisher": "TeakIvy",
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "DarkIvy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkIvy-color-theme.json"
+			}
+		]
+	}
+}
