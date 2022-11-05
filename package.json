@@ -2,7 +2,7 @@
 	"name": "darkivy",
 	"displayName": "DarkIvy",
 	"description": "A Dark VSCode theme created by TeakIvy",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"publisher": "TeakIvy",
 	"engines": {
 		"vscode": "^1.64.0"
